@@ -73,6 +73,3 @@ Contributions to ComfyUI-AstralAnimator are welcome! Please feel free to submit 
 - Thanks to the ComfyUI team for creating an excellent platform for AI image generation.
 - Inspired by the Deforum project for Stable Diffusion.
 
-## Contact
-
-Project Link: [https://github.com/your-username/ComfyUI-AstralAnimator](https://github.com/your-username/ComfyUI-AstralAnimator)
