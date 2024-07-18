@@ -75,6 +75,4 @@ Contributions to ComfyUI-AstralAnimator are welcome! Please feel free to submit 
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
-
 Project Link: [https://github.com/your-username/ComfyUI-AstralAnimator](https://github.com/your-username/ComfyUI-AstralAnimator)
